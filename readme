@@ -1,0 +1,3 @@
+This is an android project in kotlin and xml.
+A meme sharing app that gets memes from an open source api from reddit.
+Used Open Source API to fetch random memes from Reddit using Volley Library. 
